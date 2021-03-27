@@ -9,3 +9,14 @@ Team Members
 - IIT2018181 Kartic Choubey
 - IIT2018182 Chinmay Sethi
 - IIT2018183 Eishaan Singh Rao 
+
+### ASSIGNMENT 1
+k -Times Markov Sampling for SVMC
+
+### ASSIGNMENT 2
+Deep One-Class Classification
+
+### ASSIGNMENT 3
+The Generalization Ability of SVM Classification
+Based on Markov Sampling
+
