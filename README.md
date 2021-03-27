@@ -19,4 +19,7 @@ Deep One-Class Classification
 ### ASSIGNMENT 3
 The Generalization Ability of SVM Classification
 Based on Markov Sampling
+### ASSIGNMENT 4
+Deep Support Vector Data Description for
+Unsupervised and Semi-Supervised Anomaly Detection
 
