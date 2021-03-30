@@ -29,6 +29,6 @@ SVM-Boosting based on Markov resampling: Theory and algorithm
 
 
 ### ASSIGNMENT 6
-A_One_Class_Classification_decision_Tree_based_on_kernel_density_estimation
+A One-Class Classification decision Tree based on kernel density estimation
 
 
