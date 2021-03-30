@@ -27,8 +27,10 @@ Unsupervised and Semi-Supervised Anomaly Detection
 ### ASSIGNMENT 5
 SVM-Boosting based on Markov resampling: Theory and algorithm
 
-
 ### ASSIGNMENT 6
 A One-Class Classification decision Tree based on kernel density estimation
+
+### ASSIGNMENT 7
+One-Class Slab Support Vector Machine 
 
 
